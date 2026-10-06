@@ -1,9 +1,8 @@
 #Ambient power harvesting using a rectenna array to power an IoT application, demonstrated by powering a field deployed sensor node for stubble-burning detection.
 
+
 #Lifecylce:
-
 The system begins with a wideband antenna covering the 750 MHz–2.6 GHz range, which captures ambient RF energy from the surrounding environment.
-
 The harvested RF signal is fed into a custom-designed rectifier, which converts the RF energy into DC power. The rectifier is capable of delivering approximately 7 V DC at 20 dBm input power.
 
 The harvested energy is stored in a 1 F supercapacitor, which acts as the energy buffer for the sensor node.
