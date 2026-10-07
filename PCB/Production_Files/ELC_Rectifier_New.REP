@@ -1,0 +1,156 @@
+*************************************************************
+FileName = ELC_Rectifier_New.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Paste
+      File : ELC_Rectifier_New.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ELC_Rectifier_New.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ELC_Rectifier_New.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ELC_Rectifier_New.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ELC_Rectifier_New.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ELC_Rectifier_New.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ELC_Rectifier_New.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ELC_Rectifier_New.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : ELC_Rectifier_New.GM
+
+
+Used DCodes :
+    D38
+*************************************************************
+

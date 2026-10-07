@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[ELC_Rectifier_New.TXT]
+   Generated File[ELC_Rectifier_New.LDP]
+   Generated File[ELC_Rectifier_New.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:37:22 On 10-07-2026
